@@ -1,2 +1,2 @@
 # Portfólio Ciência de Dados
- Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
+Tenho como principal objetivo gerar valor para as pessoas e empresas através de ferramentas e tecnologias que permitem tranformar dados em informações estratégicas para a tomada de decisão. E esse portfolio tem como finalidade auxiliar no auto apredizado e centralizar alguns projetos realizados.
