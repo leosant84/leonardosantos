@@ -9,7 +9,7 @@ https://www.kaggle.com/code/leonardosantos84/reserva-hotel/edit
 Este projeto tem como objetivo identificar os clientes que terão ou não o seu crédito aprovado com base nas características dos clientes anteriores, desta forma foi desenvolvido 3 modelos de Machine Learning e realizado a avaliação dos modelos para identificar qual é o melhor para o projeto. Além disso, foi realizado tratamento dos dados e uma análise exploratória com a finalidade de identificar o principal perfil dos clientes e das operações de crédito.
 https://www.kaggle.com/code/leonardosantos84/aprova-o-de-cr-dito-imobili-rio
 
-# PROJETO REGIATRO DE IMOVEIS DA CIDADE DE SÃO PAULO 
+# Projeto Registro de Imóveis da Cidade De São Paulo
 Este projeto tem como objetivo demonstrar de forma estruturada, as transações imobiliárias que ocorreram na cidade de São Paulo. Principais atividades deste projeto, foi a realizacao de uma análise exploratória dos dados, modelagem dos dados e visualização de dados. Desenvolvido em POWERBI, o mesmo trás importantes funcionalidades:
 - Quantidade de transações realizadas
 - Valor médio das transações
@@ -19,3 +19,6 @@ Este projeto tem como objetivo demonstrar de forma estruturada, as transações 
 
 Fonte: Fonte: Prefeitura de São Paulo
 https://www.prefeitura.sp.gov.br/cidade/secretarias/fazenda
+
+
+https://app.powerbi.com/view?r=eyJrIjoiOTY1NWY3NGQtMGRiYS00ODFhLTgzZDMtMzc3NWZjYWU4MDdjIiwidCI6IjQ4MjU5OWEzLWMyZWMtNDE3MS1iZjE0LWU1YjQ3ZWY2YzdkZiJ9
